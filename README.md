@@ -1,5 +1,5 @@
 # How to Enhance Zoho CRM Webforms
-Blog Post: https://www.squarelabs.com.au/post/how-to-enhance-zoho-crm-webforms
+Blog Post: https://www.squarelabs.com.au/blogs/post/how-to-enhance-zoho-crm-webforms
 
 YouTube: https://youtu.be/VcPJBISEOPU
 
